@@ -1,0 +1,552 @@
+
+  {
+    "country": "Africa",
+    "data": ["Total CAF Champions League", " MTN African Cup of Nations", "CAF Confederation Cup", "CECAFA Senior Challenge Cup", "African Ntions Championship", "Total U-23 Africa Cup of Nations"]
+};
+  {
+    "country": "Albania",
+    "data": [
+      "Kategoria Superiore","Kupa e Shqiperise"]
+  };
+ {
+    "country": "Algeria",
+    "data": [
+      "Algeria Ligue Professionnelle 2","Algerian Ligue Professionnelle 1", "Algeria Coupe Nationale", "Algeria Super Cup"]
+  };
+   {
+    "country": "Americas",
+    "data": [
+      "Copa Bridgestone Libertadores de America","Copa Sudamericana", "Recopa Sudamericana", "Copa America", "CONCACAF Gold Cup", "Scotiabank CONCACAF Champions League", "Campeonato Sudamericano Sub-20 Juventud de America", "Copa Centroamericana", "CONCACAF Championship U20", "Pam American Games", "World Cup South America Qualification", "CONCACAF Men's Olympic Qualifying Tournament", "CONCACAF Cup", "CONCACAF Olympic Qualification Women", "CONCACAF-CONMEBOL Olympic Play-off", "Scotiablank CONCACAF League"]
+  };
+   {
+    "country": "Andorra",
+    "data": [
+      "Primera Divisio"]
+  };
+   {
+    "country": "Argentina",
+    "data": [
+      "Argentina Liga Professional de Futbol". "Primera Nacional", "Primera B Metropolitana", "Argentine Copa Tomeo de Verano", "Copa Total Argentina", "Argentina Super Cup", "Argentina Primera C Metropolitana","Argentina Primera D Metropolitana", "Argentina Copa BBVA"]
+  };
+   {
+    "country": "Amenia",
+    "data": [
+      "Amenia Primier League","Amenia Cup"]
+  };
+   {
+    "country": "Asia",
+    "data": [
+      "AFC Champions League","AFC Asian Cup", "AFF Suzuki Cup", "Gulf Cup of Nations", "AFC Championship U19", "Asian Games", "AFC Championship U23", "AFC Asian Cup Womens"]
+  };
+   {
+    "country": "Australia",
+    "data": [
+      "A-League","South Australian State League", "National Primeier Leagues Victoria 2 West", "Trophy Superstore Premier Leagues", "National Premier League Capital Territory", "Brisbane Canale Cup", "Australia New South Wales Waratah Cup", "A-League National Youth League", "Australia A League Women", "Australian Victorian National Premier League Women", "PS4 National Premier Leagues Queensland", "National Premier League Northem NSW", "Austrialia BrisbaneCapital League 1", "Westfield FFA Cup", "PS4 National Premier Leagues Finals"]
+  };
+   {
+    "country": "Austria",
+    "data": [
+      "Tipico Bundesliga","Austria 2. Liga", "Reginalliga Ost", "Regionalliga Mitte", "UNIQA OFB Cup"]
+  };
+   {
+    "country": "Azerbaijan",
+    "data": [
+      "Topaz Premyer Liqasi"]
+  };
+   {
+    "country": "Bahrain",
+    "data": [
+      "Bahrainni VIVA League","Bahrain King's Cup", "Bahraini League Promotion/Relegation"]
+  };
+   {
+    "country": "Belarus",
+    "data": [
+      "Belarusian Vysshaya Liga","Belarusian Cup"]
+  };
+   {
+    "country": "Belgium",
+    "data": [
+      "Jupiler Prop League","Croky Cup", "Belgium Supercup", "2nd/3rd Division Promotion/Relegation","Belgium First Division Promotion/Relegation","Belgian Beloften Prop League U21","Super League Vrouwenvoetbal", "Proximus League"]
+  };
+  {
+    "country": "Bolivia",
+    "data": [
+      "Boliviano Primera Division"]
+  };
+  {
+    "country": "Bosnia and Herzegovina",
+    "data": [
+      "M.tel Premier League","Bosnia-Hrzegovina - Kup BiH"]
+  };
+  {
+    "country": "Brazil",
+    "data": [
+      "Serie A","Serie B", "Copa Continental Pneus do Brasil", "Campeonato Carioca",
+      "Campeonato Paulista de Futebol Profissional Primeira Divsao AI", "Campeonato Paulista Serie A2", "Campeonato Paulista Serie A3",
+      "Campeonato Gaucho -1 Dvisao", "Campeonato Catarinennse Divisao Principal", "Pernambucano Coca-Cola", "Brazil Baiano Serie A", "Cearense Chevrolet Seria A", 
+      "Campeonato Paranaense de Futebol Profissional - Serie Ouro", "Goianao Chevrolet Serie A", "Campeonato Paranaense de Futebol Profissonal-Serie Ouro", 
+      "Goianao Chevrolet", "Campeonato Mineiro Modulo I", "Sao Paulo Youth Cup", "Campeonato Carioca", "Brazilian Campeonato Paulista U20", "Brazilian Copa Rio de Profissionals", "Copa do Nordeste de Futebol", "Brazil Paulista Serie B",
+       "Brazil Serie D", "Brazil Liga Sul-Minas-Rio", "Campeonato Brasileior Sub-20"]
+  };
+  {
+    "country": "Bulgaria",
+    "data": [
+      "Efbet Liga","Bulgarian Cup", "Bulgarian Super Cup", "Bulgarian Second Division"]
+  };
+  {
+    "country": "Chile",
+    "data": [
+      "Campeonato Nacional Afp Plan Vital","Copa Chile MTC", "Primera Division B", "Chile Super Cup"]
+  };
+  {
+    "country": "China",
+    "data": [
+      "China Ping An Chinese Football Association Super League","Chinese FA Cup", "China Super Cup"]
+  };
+  {
+    "country": "Colombia",
+    "data": [
+      "Liga BetPlay Dimayor","Copa BetPlay Dimayor", "Tomeo BetPly Dimayor", "Colombian Supercup or Superliga Postobon", "Colombia Tomeo ESPN"]
+  };
+  {
+    "country": "Costa Rica",
+    "data": [
+      "Liga Promerica"]
+  };
+  {
+    "country": "Croatia",
+    "data": [
+      "Hrvatski Telekom Prva Liga","Druga HNL", "Croatian Super Cup", "Hrvatski Nogometni Kup", "Croatian 1. HNL Juniori"]
+  };
+  {
+    "country": "Crypus",
+    "data": [
+      "Cyta Championship","Cyprus Coca Cola Cup", "Cyprus Super Cup"]
+  };
+  {
+    "country": "Crech Republic",
+    "data": [
+      "Fortuna liga","Czech Republic Second Division", "MOL Cup", "Czech MSFL", "Tipsport Cup",
+      "Czech Republic CFL Group A", "Czech Super Cup", "Czech Women First Division", "Czech U21 League", "Czech U19 League"]
+  };
+  {
+    "country": "Denmark",
+    "data": [
+      "3F Superliga","NordicBet Ligaen", "Sydbank Pokalen", "Danmarksserien Pulje 1", "Danmarksserien Pulje 2","Danmarksserien Pulje 2","Gjensidige Kvindeligaen","Danmark Danmarksserien Promotion Play-off", "Danmarksserien Pulje 4"]
+  };
+  {
+    "country": "Eccuador",
+    "data": [
+      "Copa Pilsener","Ecuador Primera B"]
+  };
+  {
+    "country": "Egypt",
+    "data": [
+      "Egypt Vodafone Premier League","Egypt Cup"]
+  };
+  {
+    "country": "Salvador",
+    "data": [
+      "Primera Division de Futbol Professional"]
+  };
+  {
+    "country": "England",
+    "data": [
+      "England Premier League","The FA Community Shield support by McDonald's", "Carabao Cup","Sky Bet League 1", "Sky Bet League 2", "Vanarama National League", "The Emirates FA Cup",
+      "Vanarama National League North","Vanarama National League South", "Evo-Stik Northern Premier League", "Bostik League Division", "England Isthmian Leage North Division", "FA Trophy", "EFL Trophy", "The FA Vase", "FA Women's Cup", "English FA Women's Super League", "FA WSL Continetal Typres Cup", "England Premier League 2 Division 1", "England Premier League 2 Division 2", "England Premier League", "Velocity Trophy"]
+  };
+  {
+    "country": "Estonia",
+    "data": [
+      "A Le Coq Premium Liga","Esiliga A", "Kankas", "Estonian Super Cup", "Estonian Meistriliga Women", "Estonian Esiliga B"]
+  };
+  {
+    "country": "Europe",
+    "data": [
+      "UEFA Champions League","UEFA European Footbal Championship", "UEFA Super Cup","European Championship u21", "European Championship U17", 
+      "European Championship U19", "UEFA Women's Champions League", "Maspalomas International Football Tournament", 
+      "Emirates Cup", "UEFA Europa League", "Audi Cup", "Uhrencup", "UEFA European Women's under-19 Championship", 
+      "UEFA Womean's Championship Under 17 Champsionship", "Copa Del Sol", "Altantic Cup","World Cup Europe Qualification", "Internatioal Valeri Lobanovsky Memorial Tournament", "UEFA Youth League", "Premier League International Cup", "UEFA Women Olympiac Qualification", "UEFA Women's World Cup Qualification", "UEFA Nations League A", "UEFA Champions League Qualification"]
+  };
+  {
+    "country": "Faroe Islands",
+    "data": [
+      "Vodafonedeidin Premier League",]
+  };
+  {
+    "country": "Finland",
+    "data": [
+      "Veikkausliliga","Ykkonen","Respect Finnish Cup","Liga Cup","Finland Kakonen Group A","Finland Kakonen Group B", "Finland Kakonen Group C"]
+  };
+  {
+    "country": "France",
+    "data": [
+      "Ligue 1 Uber Eats","Ligue 2 BKT", "Coupe de la Ligue BKT", "Coupe de France", "Trophee des champions", "Champonnat National", "France Ligue 1 Promotion/Relegation", "France Ligue 2 Promotion/Relegation"]
+  };
+  {
+    "country": "Georgia",
+    "data": [
+      "Cystallbet Erovnuli Liga","Georgia Cup"]
+  };
+  {
+    "country": "Germany",
+    "data": [
+      "Germany 1. Bundesliga","2.Bundesliga","DFB Pokal", "Oberiga Banden-Wurttemberg", "Hessenliga", "Oberliga nord", "NOFV-Oberliga Sud","The Oberliga Rheinland-Pfalz/Saar", "Regionaliga Nord", "Germany Bundesliga Womren", "Germany 3. Liga", 
+      "regionaliga West", "Bremen-Liga", "Oberliga Hamburg", "Oberliga Scheleswig-Holstein", "Bundesliga Promotion/Relegation Playoff", "2.Bundesliga Promotion/Relegation Playoff", "DFL-Supercup", "Oberliga niedersachsen", "Regionaliga Nordost", "Regionaliga Bayern", "Regionaliga Sudwest"]
+  };
+  {
+    "country": "Ghana",
+    "data": [
+      "Ghananian Premier League",]
+  };
+  {
+    "country": "Gilbralta",
+    "data": [
+      "Argus Insurance Premier Division",]
+  };
+  {
+    "country": "Greece",
+    "data": [
+      "Interwetten","Greek Cup", "Greece Football League"]
+  };
+  {
+    "country": "Guatemala",
+    "data": [
+      "Liga nacional de Futbol de Guatemala"]
+  };
+  {
+    "country": "Honduras",
+    "data": [
+      "Liga Salva-Vida",]
+  };
+  {
+    "country": "Hong Kong",
+    "data": [
+      "BOCG Life Hong Kong Premier League","Hong Kong Community Cup"]
+  };
+  {
+    "country": "Hungary",
+    "data": [
+      "OTP Bank Liga","Magyar Kupa", "Hungarian Super Cup", "Merkantil Bank Liga"]
+  };
+  {
+    "country": "Iceland",
+    "data": [
+      "Pepsi Max deidin","Iceland Cup", "Lengjubikarinn", "1. Deild Karla", "2.Deild Karla", "Northern Iceland Cup", "Icelandic Reykjavik Cup"]
+  };
+  {
+    "country": "India",
+    "data": [
+      "I-League","Hero Indian Super League"]
+  };
+  {
+    "country": "Indonesia",
+    "data": [
+      "Shoppe Liga 1"]
+  };
+  {
+    "country": "Iran",
+    "data": [
+      "Persian Gulf Pro League","Iran Azadegan League", "Iran Super Cup"]
+  };
+  {
+    "country": "Ireland",
+    "data": [
+      "SSE Airticity League Premier Division","Irish Daily Mail FAI Cup", "Airticity League First Division", "EA Sports Cup", "FAI Presdient's Cup"]
+  };
+  {
+    "country": "Isreal",
+    "data": [
+      "Tel Aviv Stock Exchange League","Liga Leumit", "Israeli State Cup", "Toto Cup Ligat AI"]
+  };
+  {
+    "country": "italy",
+    "data": [
+      "Serie A TIM","serie BKT", "Lega Pro Divisione Girone A", "Coppa Italia Coca-Cola", "Supercoppa Italiana", "Lega Pro Divisione Girone B", "Italy Campionato Primavera", "Coppa Italia Serie C", "Italian Supercoppa Lega Prop", "Lego Pro Divsione C"]
+  };
+  {
+    "country": "Japan",
+    "data": [
+      "Meiji Yasuda J1 League","Meiji Yasuda J2 League", "The Emperor's Cup All-Japan Soccer Championship Tornament", "Fuji Xerox Super Cup", "Meji Yasuda J3 League", "J. League YBC Levain Cup", "Japanese J. Promotion/Relegation", "Japan New Year Cup"]
+  };
+  {
+    "country": "Jordan",
+    "data": [
+      "Manasir Jordan Pro League","Jordan FA Cup"]
+  };
+  {
+    "country": "Kazakhstan",
+    "data": [
+      "Kazakhstan Premier League","Kazakhstan Cup"]
+  };
+  {
+    "country": "Kenya",
+    "data": [
+      "Sportpesa Kenyan Premier League",]
+  };
+  {
+    "country": "Korea Rep",
+    "data": [
+      "Korea Republic K-League 1","Hana Bank FA Cup", "Shinhan Bank Korean National League", "Woman Korean Republic WK-League"]
+  };
+  {
+    "country": "Kuwait",
+    "data": [
+      "Kuwait Premier League","Kuwait Emir Cup", "Kuwait Crown Prince Cup"]
+  };
+  {
+    "country": "Latvia",
+    "data": [
+      "Latvian Football Cup"]
+  };
+  {
+    "country": "Lithuania",
+    "data": [
+      "SMScredit.It A Lyga", "Lithuanian Football Federation Cup", "1 Lyga", "Lithuania A Lyga Promotion/Relegation Playoff"]
+  };
+  {
+    "country": "Malaysia",
+    "data": [
+      "CIMB Liga Super Malaysia","Malaysian FA Cup", "Malaysian Premier League", "Malaysia Cup"]
+  };
+  {
+    "country": "Malta",
+    "data": [
+      "Malta BOV Premier League"]
+  };
+  {
+    "country": "Mexico",
+    "data": [
+      "Liga BBVA Bancomer","Mexico Liga Expansion MX", "Copa Corona MX"]
+  };
+  {
+    "country": "Moldova",
+    "data": [
+      "National Division","Cupa Moldovei Orange"]
+  };
+  {
+    "country": "Montenegro",
+    "data": [
+      "t-Com 1.CFL"]
+  };
+  {
+    "country": "Morocco",
+    "data": [
+      "Botola","COupe du Trone"]
+  };
+  {
+    "country": "Nethelands",
+    "data": [
+      "Eredivsise","Keuken Kampioen Divisie", "KNVB Beker", "Johan Cruijff Shield", "Vrouwen Eredivise"]
+  };
+  {
+    "country": "New Zealand",
+    "data": [
+      "Stirling Sports Prremiership",]
+  };
+  {
+    "country": "Non-Geographic",
+    "data": [
+      "2. Division Pulje 1", "2. Division Pulje 2"]
+  };
+  {
+    "country": "North Macedonia",
+    "data": [
+      "Prva Liga"]
+  };
+  {
+    "country": "Northern Ireland",
+    "data": [
+      "Danske Bank Premiership","Belfast Telegraph Championship", "Tenneth's Irish Cup", "JBE League Cup", "Toals Bookmakers Senior Shield"]
+  };
+  {
+    "country": "Norway",
+    "data": [
+      "Eliteserien","OBOS-Ligaen", "NM Cupen", "Second Division Group 1", "Second Division Group 2", "Toppsedrien", "Women NM Cupen", "tippeligaen Promtion/Relegation", "Norway Super Cup"]
+  };
+  {
+    "country": "Oceania",
+    "data": [
+      "OFC Champions League","OFC Nations Cup"]
+  };
+  {
+    "country": "Oman",
+    "data": [
+      "Oman Professional League","Oman Sultan Cup"]
+  };
+  {
+    "country": "Panama",
+    "data": [
+      "Liga Panamena de Futbol"]
+  };
+  {
+    "country": "Paraguay",
+    "data": [
+      "Copa de Primera TIGO-Vision Banco"]
+  };
+  {
+    "country": "Peru",
+    "data": [
+      "Liga 1 Movistar","Peruvian Segunda Division", "Copa Peru"]
+  };
+  {
+    "country": "Philippines",
+    "data": [
+      "Philippines Football League"]
+  };
+  {
+    "country": "Poland",
+    "data": [
+      "PKO Ekstraklasa","totolotek Polish Cup", "Seond League", "Polish Super Cup", "Polish Ekstraliga Kobiet"]
+  };
+  {
+    "country": "Portugal",
+    "data": [
+      "Liga NOS", "Ledman LigaPro", "Allianz Cup", "Taca de Portugal Placard", "SuperCup Candido de Oliveira"]
+  };
+  {
+    "country": "Qatar",
+    "data": [
+      "Qatar Stars League","QNB Cup", "The Emir Cup"]
+  };
+  {
+    "country": "Romania",
+    "data": [
+      "Casa Liga 1","Cupa Romaniei Timisoreana", "Liga 2 Casa Pariurilor", "Romanian Super Cup", "Cupa Ligii"]
+  };
+  {
+    "country": "Russia",
+    "data": [
+      "Russia tinkoff Russian Premier League","Olimp FNL", "Pirelli Russian Cup", "Russian 2. Division Center", "Russian 2. Division Zapad", "Russian 2. Division Yug", "Russian 2. Division Ural-Priovolzhie", 
+      "Rosgosstrah 2. Division zone 'Vostok'", "Russian Women Top Division" ]
+  };
+  {
+    "country": "Saudi Arabia",
+    "data": [
+      "Abdul Latif Jameel League","Saudi Arabian League Division 1"]
+  };
+  {
+    "country": "Scotland",
+    "data": [
+      "Ladbrokes Premiership","Ladbrokes Championship", "William Hill Scottish Cup", "Betfred Cup", "Ladbrokes League One", "Ladbrokes League Two", 
+      "SPFL Trust Trophy", "Scotland Championship Promotion/Relgation", "Scottish Premiership Promotion/Relgation"]
+  };
+  {
+    "country": "Serbia",
+    "data": [
+      "Linglong Tire SuperLiga","Serbian Cup", "Serbia SuperLiga Promotion/Relegation"]
+  };
+  {
+    "country": "Singapore",
+    "data": [
+      "AIA Singapore Premier League","THB Singapore Cup"]
+  };
+  {
+    "country": "Slovakia",
+    "data": [
+      "Fortuna liga","DOXXbet liga"]
+  };
+  {
+    "country": "Slovenia",
+    "data": [
+      "Prva liga Telekom Slovenije","NHS Cup", "Slovenian Super Cup"]
+  };
+  {
+    "country": "South Africa",
+    "data": [
+      "Premier Soccer League","Nedbank Cup", "South Africa Telkom Knockout"]
+  };
+  {
+    "country": "Spain",
+    "data": [
+      "La Liga Santander","LaLiga SmartBank", "Copa del Rey", "Supercopa de Espana", "Spain Segunda Division RFEF Group 4", "Spain Segunda Division RFEF Group 2",
+     "Spain Segunda Division RFEF Group 1", "Spain Segunda Division RFEF Group 3", "Spanish Copa de la Reina de Futbol", "Primera Iberdrola", "Copa Catalunya"]
+  };
+  {
+    "country": "Sweden",
+    "data": [
+      "Allsvenskan","Superettan", "Divsion 1 Norra", "Division 1 Sodra", "Division 2 Sodra Gotaland", "Divisioin 2 Norrland", "Division 2 Norra Svealand", 
+    "Division 2 Sodra Svealand", "Division 2 Vastra Svealand", "Division 2 Ostra Gotaland","Svenska Supercupen", "Swedish Damallsvenskan", "Allsvanskan Promotion/Relegation Play-Off", "Division 2 Norra Gotaland", "Sedish Elitettan Women"]
+  };
+  {
+    "country": "Switzerland",
+    "data": [
+      "Raiffeisen Super League","Brack.ch Challenge League", "Helvetia Schweizer Cup", "Axpo Super League Relegation/Promotion Play-Off"]
+  };
+  {
+    "country": "Taiwan",
+    "data": [
+      "Taiwan Football Premier League","Taiwan Mulan Football League Womren", "Taiwan Football League Two"]
+  };
+  {
+    "country": "Thailand",
+    "data": [
+      "Toyota Thai League 1","Thai FA Cup", "Thailand League Cup"]
+  };
+  {
+    "country": "Trinidad and Tobago",
+    "data": [
+      "TT Pro League"]
+  };
+  {
+    "country": "Tunisia",
+    "data": [
+      "Tunisia Ligue 1","Tunisia Cup"]
+  };
+  {
+    "country": "Turkey",
+    "data": [
+      "Spor Toto Super Lig","PTT 1.Lig", "Ziraat Turkey Cup", "TFF Super Cup", "Spor Toto 2 League Gropu Beyaz", "Spor Toto 3 League Group Kkimizi", "Spor Toto 3. Lig Group 1", , "Spor Toto 3. Lig Group 2", "Spor Toto 3. Lig Group 3", " U21 Super Lig"]
+  };
+  {
+    "country": "Ukraine",
+    "data": [
+      "Ukraine FavBet Liha","DATAGROUP - Football Ukraine Cup", "Inter Super Cup", "Persha Liha"]
+  };
+  {
+    "country": "United Arab Emirates",
+    "data": [
+      "Arabian Gulf League","UAE League Divisioin 1", "UAE President Cup", "UAE Arabian Gulf Cup"]
+  };
+  {
+    "country": "United States of America",
+    "data": [
+      "MLS","Lamar Hunt U.S. Open Cup", "USL", "National Women's Soccer League", "Carolina Challenge Cup", "US Visit Tucson Sun Cup", "US MLS Suncoast Invitational"]
+  };
+   {
+    "country": "Uruguay",
+    "data": [
+      "Liga Professional de Primera Division","Uruguay Super Cup"]
+  };
+   {
+    "country": "Uzbekistan",
+    "data": [
+      "Coca=Cola Uzbekistan Super League","Uzbekistan Super League Promotion/Relegation"]
+  };
+   {
+    "country": "Venezuela",
+    "data": [
+      "Liga Movistar","Venezuela Copa Bicentenario"]
+  };
+ {
+    "country": "Vietnam",
+    "data": [
+      "Eximbank V.League 1","Vietnam V.League 2"]
+  };
+ {
+    "country": "Wales",
+    "data": [
+      "The Corbett Sports Welsh Premier League","JD Welsh Cup"]
+  };
+ {
+    "country": "World",
+    "data": [
+      "FIFA International Friendlies","FIFA World Club Championships", "FIFA World Cup", "FIFA Confederations Cup", "Men's Olympic Football", "Club Friendlies",
+    "Women's Olypic Football", "International Friendlies U21", "International Friendlies U20", "International Friendlies U19"
+  "FIFA U-20 Women's World Cup", "Mundialito de Futebol Feminino Algarve", "FIFA Women's World Cup", "Festival Espoirs International de Toulon",
+"International Champions Cup", "Barclays Asia Trophy", "FIFA U20 World Cup", "FIFA U17 World Cup", "King's Cup", "International Friendlies U23"
+"FIFA International Friendlies Women", "Women's U17 World Cup", "Cyprus Women's Cup", "Arab Nations Cup", "Copa Euroamericana"
+"Florida Cup", "The Dubai International Cup", "She Belives Cup", "Super Copa Tecate", "Women's Tournament of Nations" ]
+  };
+
+  
